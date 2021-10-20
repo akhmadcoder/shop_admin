@@ -17,7 +17,7 @@ application will be ready, and you can log in with:
 2) 2) username: admin1@gmail.com password:  admin
 
 
-            ]
+            
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
